@@ -2,7 +2,7 @@
 CMPUT 301 F20 TEAM PROJECT
 
 ## *Team Members* 💻
-| [Jiabin Fan](https://github.com/jiabinfan) | [Jiale Hu](https://github.com/huuuJL) | [Jinyu Shen](https://github.com/MitsurugiMeiya) | [Qianqiu Zhang](https://github.com/zqq66) | [Shanzhi Zhang](https://github.com/zhangshanzhi) | [Zhining He](https://github.com/zhininghjl) |
+| [Jiabin Fan](https://github.com/jiabinfan) | [Jiale Hu](https://github.com/huuuJL) | [Jinyu Shen](https://github.com/MitsurugiMeiya) | [Qianqiu Zhang](https://github.com/zqq66) | [Shanzhi Zhang](https://github.com/zhangshanzhi) | [Zhining He](https://github.com/zhiningh) |
 | :---: |:---:| :---:| :---: |:---:| :---:|
 
 
